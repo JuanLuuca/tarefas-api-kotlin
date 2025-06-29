@@ -38,7 +38,7 @@ Uma API REST completa para gerenciamento de tarefas desenvolvida em **Kotlin** c
 ## 🛠️ Como Executar
 
 ### Pré-requisitos
-- Java 17 ou superior
+- Java 21
 - Maven 3.6+
 
 ### Executando a aplicação
@@ -106,11 +106,3 @@ src/main/kotlin/com/example/demo/
 ├── config/        # Configurações
 └── model/         # Modelos de domínio
 ```
-
-## 👨‍💻 Autor
-
-Desenvolvido por **JuanLuuca**
-
----
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
